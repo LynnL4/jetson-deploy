@@ -1,0 +1,15 @@
+# IDE
+.vscode
+
+# models
+*.engine
+*.onnx
+*.trt
+
+# images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.svg
